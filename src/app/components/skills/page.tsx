@@ -8,7 +8,7 @@ const Skills = () => {
             {/* top div */}
             <div className=' flex justify-center items-center flex-col'>
                 <div className='bg-black text-white w-[180px] h-[40px]  hover:bg-yellow-400 text-xl rounded m-6 font-bold pb-8 pl-12 pt-4' >Skills</div>
-                <p className='mt-3  font-extrabold text-black border-b-black'>Skills and technologies i'm good at !</p>
+                <p className='mt-3  font-extrabold text-black border-b-black'>Skills and technologies i&apos;m good at !</p>
 
 
             </div>

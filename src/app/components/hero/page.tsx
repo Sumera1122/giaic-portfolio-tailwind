@@ -18,7 +18,7 @@ const Hero = () => {
         </div>
     {/* right div */}
         <div className=' w-full md:w-[50%] space-y-5 px-5'>
-            <h1 className=' text-xl font-bold lg:text-3xl text-lime-400'>Hi, I'm Sumera </h1>
+            <h1 className=' text-xl font-bold lg:text-3xl text-lime-400'>Hi, I&apos;m Sumera </h1>
             <p className=' text-[14px] md:text-[16px]'>A budding Front-End Developer with a unique background in Business Administration and Finance. My journey into tech began when i got enrolled in governor house IT initiative program,i worked as a project cordinator in PDM&I where i gained a year of experience that honed my skills in teamwork and problem-solving.
             
             I am passionate about creating user-friendly web experiences and have been diving into front-end technologies like HTML, CSS, and JavaScript. My background in finance gives me a distinct perspective on building solutions that not only look good but also make sense from a business standpoint.
